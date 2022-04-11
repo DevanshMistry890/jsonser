@@ -1,1 +1,22 @@
-#rerr
+[
+	{
+		"name":"Nepal", 
+		"capital":"Kathmandu"
+	},
+	{
+		"name":"India", 
+		"capital":"New Delhi"
+	},
+	{
+		"name":"USA", 
+		"capital":"Washington DC"
+	},
+	{
+		"name":"UK", 
+		"capital":"London"
+	},
+	{
+		"name":"Sri Lanka", 
+		"capital":"Colombo"
+	}
+]
