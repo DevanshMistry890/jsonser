@@ -1,23 +1,11 @@
-[
-	"Data":[
-	{
-		"name":"Nepal", 
-		"capital":"Kathmandu"
-	},
-	{
-		"name":"India", 
-		"capital":"New Delhi"
-	},
-	{
-		"name":"USA", 
-		"capital":"Washington DC"
-	},
-	{
-		"name":"UK", 
-		"capital":"London"
-	},
-	{
-		"name":"Sri Lanka", 
-		"capital":"Colombo"
-	}]
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
